@@ -3,3 +3,4 @@ pkg
 spec/tmp
 .yardoc/
 doc/
+.idea/

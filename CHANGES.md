@@ -1,3 +1,7 @@
+# 3.0.1 2021-02-01
+*   Updated gems
+*   Fixed deprecations around rspec syntax (`should` is now `expect`)
+
 # 3.0.0 2019-12-11
 *   Use RAutomation 1.0.0 as its dependency to be able to use newer ffi.
 *   Update bundled ImageMagick to 7.0.9-8.
